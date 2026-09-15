@@ -8,8 +8,11 @@ Site institucional desenvolvido para a Mercearia do Seu Zé, um comércio tradic
 
 ## Integrantes
 
-- [Nome completo] — [link do GitHub ou LinkedIn]
-- [Nome completo] — [link do GitHub ou LinkedIn]
+- [Alisson Eduardo Silva de Souza] — [https://github.com/aliedu246-dev]
+- [Arthur Guilherme Silva de Souza] — [https://github.com/ArthurGuilherme246-dev]
+- [Igor Rafael de Moraes] — [https://github.com/igoorrafael16]
+- [Matheus Machado de Paula] — [https://github.com/teuteuu]
+
 
 ## Perfil profissional
 
